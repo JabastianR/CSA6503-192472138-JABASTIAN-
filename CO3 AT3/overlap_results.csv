@@ -1,0 +1,4 @@
+query,faiss_results,chroma_results,overlap,overlap_percent
+How can people reduce plastic pollution?,5,5,4,80.0
+What can we do to fight climate change?,5,5,5,100.0
+How does renewable energy help the environment?,5,5,4,80.0

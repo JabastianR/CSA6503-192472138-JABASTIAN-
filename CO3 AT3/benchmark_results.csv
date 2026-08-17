@@ -1,0 +1,11 @@
+query,faiss_latency_ms,chroma_latency_ms,faiss_relevance_percent,chroma_relevance_percent,faiss_top5,chroma_top5
+How can people reduce plastic pollution?,6.0196000013093,26.844699999855948,100.0,100.0,176 | 75 | 39 | 206 | 143,176 | 75 | 39 | 206 | 68
+What can we do to fight climate change?,0.6778999995731283,5.070299999715644,100.0,100.0,27 | 188 | 84 | 93 | 48,27 | 188 | 93 | 84 | 48
+How does renewable energy help the environment?,0.27490000138641335,5.82110000141256,100.0,100.0,44 | 33 | 107 | 82 | 9,44 | 107 | 33 | 82 | 35
+What are the benefits of recycling?,0.16539999887754675,6.259799998588278,100.0,100.0,160 | 153 | 114 | 79 | 68,160 | 114 | 153 | 79 | 68
+How can we protect oceans from pollution?,0.25570000070729293,3.0353999991348246,100.0,100.0,47 | 18 | 8 | 127 | 13,47 | 18 | 8 | 127 | 103
+Why should people reduce their carbon footprint?,0.16120000145747326,4.207899999528308,100.0,100.0,12 | 56 | 140 | 124 | 158,12 | 56 | 140 | 158 | 124
+What actions can communities take to protect nature?,0.1596000001882203,3.7793999999848893,100.0,100.0,88 | 100 | 28 | 163 | 54,28 | 100 | 88 | 163 | 54
+How can sustainable transportation help the planet?,0.15660000099160243,3.8144999998621643,100.0,100.0,182 | 76 | 181 | 140 | 124,181 | 76 | 182 | 140 | 158
+Save the planet,0.18970000019180588,4.156400000283611,100.0,100.0,65 | 154 | 183 | 77 | 20,183 | 154 | 65 | 77 | 210
+#SaveThePlanet,0.24440000015601981,4.4814000011683675,100.0,100.0,250 | 65 | 154 | 183 | 167,250 | 183 | 154 | 65 | 167

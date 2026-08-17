@@ -1,0 +1,3 @@
+database,dataset_size,embedding_model,embedding_dimension,indexing_time_seconds,average_query_latency_ms,average_top5_relevance_percent,storage_mb
+FAISS,250,all-MiniLM-L6-v2,384,0.05028239999955986,0.8305000004838803,100.0,0.3662538528442383
+ChromaDB,250,all-MiniLM-L6-v2,384,3.690470399998958,6.7470899999534595,100.0,1.0626564025878906
